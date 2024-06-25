@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Blood Bank Management System.props" />
+</Project>

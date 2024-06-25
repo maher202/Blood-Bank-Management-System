@@ -1,0 +1,30 @@
+G:\Work project\Blood Bank Management System\Blood Bank Management System\bin\Debug\net8.0\appsettings.Development.json
+G:\Work project\Blood Bank Management System\Blood Bank Management System\bin\Debug\net8.0\appsettings.json
+G:\Work project\Blood Bank Management System\Blood Bank Management System\bin\Debug\net8.0\Blood Bank Management System.staticwebassets.runtime.json
+G:\Work project\Blood Bank Management System\Blood Bank Management System\bin\Debug\net8.0\Blood Bank Management System.exe
+G:\Work project\Blood Bank Management System\Blood Bank Management System\bin\Debug\net8.0\Blood Bank Management System.deps.json
+G:\Work project\Blood Bank Management System\Blood Bank Management System\bin\Debug\net8.0\Blood Bank Management System.runtimeconfig.json
+G:\Work project\Blood Bank Management System\Blood Bank Management System\bin\Debug\net8.0\Blood Bank Management System.dll
+G:\Work project\Blood Bank Management System\Blood Bank Management System\bin\Debug\net8.0\Blood Bank Management System.pdb
+G:\Work project\Blood Bank Management System\Blood Bank Management System\obj\Debug\net8.0\Blood Bank Management System.GeneratedMSBuildEditorConfig.editorconfig
+G:\Work project\Blood Bank Management System\Blood Bank Management System\obj\Debug\net8.0\Blood Bank Management System.AssemblyInfoInputs.cache
+G:\Work project\Blood Bank Management System\Blood Bank Management System\obj\Debug\net8.0\Blood Bank Management System.AssemblyInfo.cs
+G:\Work project\Blood Bank Management System\Blood Bank Management System\obj\Debug\net8.0\Blood Bank Management System.csproj.CoreCompileInputs.cache
+G:\Work project\Blood Bank Management System\Blood Bank Management System\obj\Debug\net8.0\Blood Bank Management System.MvcApplicationPartsAssemblyInfo.cache
+G:\Work project\Blood Bank Management System\Blood Bank Management System\obj\Debug\net8.0\Blood Bank Management System.RazorAssemblyInfo.cache
+G:\Work project\Blood Bank Management System\Blood Bank Management System\obj\Debug\net8.0\Blood Bank Management System.RazorAssemblyInfo.cs
+G:\Work project\Blood Bank Management System\Blood Bank Management System\obj\Debug\net8.0\staticwebassets.build.json
+G:\Work project\Blood Bank Management System\Blood Bank Management System\obj\Debug\net8.0\staticwebassets.development.json
+G:\Work project\Blood Bank Management System\Blood Bank Management System\obj\Debug\net8.0\staticwebassets\msbuild.Blood Bank Management System.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Work project\Blood Bank Management System\Blood Bank Management System\obj\Debug\net8.0\staticwebassets\msbuild.build.Blood Bank Management System.props
+G:\Work project\Blood Bank Management System\Blood Bank Management System\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Blood Bank Management System.props
+G:\Work project\Blood Bank Management System\Blood Bank Management System\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Blood Bank Management System.props
+G:\Work project\Blood Bank Management System\Blood Bank Management System\obj\Debug\net8.0\staticwebassets.pack.json
+G:\Work project\Blood Bank Management System\Blood Bank Management System\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\Work project\Blood Bank Management System\Blood Bank Management System\obj\Debug\net8.0\scopedcss\bundle\Blood Bank Management System.styles.css
+G:\Work project\Blood Bank Management System\Blood Bank Management System\obj\Debug\net8.0\scopedcss\projectbundle\Blood Bank Management System.bundle.scp.css
+G:\Work project\Blood Bank Management System\Blood Bank Management System\obj\Debug\net8.0\Blood Bank Management System.dll
+G:\Work project\Blood Bank Management System\Blood Bank Management System\obj\Debug\net8.0\refint\Blood Bank Management System.dll
+G:\Work project\Blood Bank Management System\Blood Bank Management System\obj\Debug\net8.0\Blood Bank Management System.pdb
+G:\Work project\Blood Bank Management System\Blood Bank Management System\obj\Debug\net8.0\Blood Bank Management System.genruntimeconfig.cache
+G:\Work project\Blood Bank Management System\Blood Bank Management System\obj\Debug\net8.0\ref\Blood Bank Management System.dll
